@@ -1,0 +1,130 @@
+LTspice 24.0.9 for Windows
+Circuit: * E:\ltspice\Simple RC ckt and its equivalent Laplace TRansform.asc
+Start Time: Fri Mar  1 15:09:40 2024
+solver = Normal
+Maximum thread count: 8
+
+
+
+Laplace(e1): Window=50.371162ms Nfft=16384
+WARNING: Less than two connections to node vout_laplace.  This node is used by e1.
+.OP point found by inspection.
+.step r=1000 c=1e-06
+
+
+
+.step r=11000 c=1e-06
+
+
+
+.step r=20000 c=1e-06
+
+
+
+.step r=1000 c=2e-06
+
+
+
+.step r=11000 c=2e-06
+
+
+
+.step r=20000 c=2e-06
+
+
+
+.step r=1000 c=3e-06
+
+
+
+.step r=11000 c=3e-06
+
+
+
+.step r=20000 c=3e-06
+
+
+
+.step r=1000 c=4e-06
+
+
+
+.step r=11000 c=4e-06
+
+
+
+.step r=20000 c=4e-06
+
+
+
+.step r=1000 c=5e-06
+
+
+
+.step r=11000 c=5e-06
+
+
+
+.step r=20000 c=5e-06
+
+
+
+.step r=1000 c=6e-06
+
+
+
+.step r=11000 c=6e-06
+
+
+
+.step r=20000 c=6e-06
+
+
+
+.step r=1000 c=7e-06
+
+
+
+.step r=11000 c=7e-06
+
+
+
+.step r=20000 c=7e-06
+
+
+
+.step r=1000 c=8e-06
+
+
+
+.step r=11000 c=8e-06
+
+
+
+.step r=20000 c=8e-06
+
+
+
+.step r=1000 c=9e-06
+
+
+
+.step r=11000 c=9e-06
+
+
+
+.step r=20000 c=9e-06
+
+
+
+.step r=1000 c=1e-05
+
+
+
+.step r=11000 c=1e-05
+tnom = 27
+temp = 27
+method = modified trap
+.step r=20000 c=1e-05
+Total elapsed time: 2.162 seconds.
+
