@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * E:\ltspice\CMOS NOR.asc
+Start Time: Sun Mar 10 22:37:25 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.114 seconds.
+
